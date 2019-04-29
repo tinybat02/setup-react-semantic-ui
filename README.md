@@ -1,2 +1,2 @@
 # Description
-Fetch transactions from the Iota tangle
+Saving basic setup for react + semantic ui + webpack4
